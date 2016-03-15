@@ -1,0 +1,24 @@
+[class^="widget-"],[class*=" widget-"] {
+  display: inline-block;
+  line-height: 16px;
+  vertical-align: text-top;
+  background-repeat: no-repeat;  
+  width: 16px;
+  height: 16px;
+  background: transparent url('/engine/modules/widget/services-icons.png');
+}
+
+.widget-nk { background-position:-96px -0px; }
+.widget-blip { background-position:-80px -0px }
+.widget-twitter {background-position:-16px -0px;}
+.widget-wykop {background-position:-0px -0px;}
+.widget-gg {background-position:-112px -0px;}
+.widget-digg {background-position:-128px -0px;}
+.widget-del {background-position:-64px -0px;}
+.widget-googlebookmarks {background-position:-48px -0px;}
+.widget-myspace {background-position:-144px -0px;}
+.widget-buzz {background-position:-160px -0px;}
+.widget-pinger {background-position:-176px -0px;}
+.widget-flacker {background-position:-192px -0px;}
+.widget-technorati {background-position:-208px -0px;}
+.widget-stumbleupon {background-position:-224px -0px;}
